@@ -11,8 +11,8 @@ Code：8888
 First, data_processing.py was run to preprocess the data set, and train_vgg.py was run to train and test the model and visualize the training data.  
 The model_apply.py file completes the actual test application.  
 # Model
-https://github.com/triste-creator/Application-of-deep-convolutional-networks-in-teaching-scenarios-/blob/main/m.png  
+![Model](https://github.com/triste-creator/Application-of-deep-convolutional-networks-in-teaching-scenarios-/blob/main/m.png)
 # Loss  
-https://github.com/triste-creator/Application-of-deep-convolutional-networks-in-teaching-scenarios-/blob/main/l.png  
+![Loss](https://github.com/triste-creator/Application-of-deep-convolutional-networks-in-teaching-scenarios-/blob/main/l.png)  
 # Accuracy  
-https://github.com/triste-creator/Application-of-deep-convolutional-networks-in-teaching-scenarios-/blob/main/a.png
+![Accuracy](https://github.com/triste-creator/Application-of-deep-convolutional-networks-in-teaching-scenarios-/blob/main/a.png)
